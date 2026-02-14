@@ -37,7 +37,7 @@ export interface SortingFact {
 export const FACTS_TO_SORT: SortingFact[] = [
   { id: 1, text: "Dunmore's Proclamation (1775): Freedom for Patriot-owned slaves.", correctSide: 'British' },
   { id: 2, text: "Philipsburg Proclamation (1779): Universal offer for runaways.", correctSide: 'British' },
-  { id: 3, text: "The Book of Negroes: 4,000 souls evacuated to Canada.", correctSide: 'British' },
+  { id: 3, text: "The Book of Negroes: 3,000 souls evacuated to Canada.", correctSide: 'British' },
   { id: 4, text: "Brutal camp conditions and smallpox outbreaks.", correctSide: 'British' },
   { id: 5, text: "Rhode Island Slave Enlistment Act (1st RI Regiment).", correctSide: 'American' },
   { id: 6, text: "Freedom Suits used state constitutions to end slavery.", correctSide: 'American' },
