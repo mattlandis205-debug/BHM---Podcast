@@ -47,7 +47,7 @@ const App: React.FC = () => {
         <h2 className="text-4xl font-bold historical-font mb-4 text-amber-900">The Great Contradiction</h2>
         <p className="text-lg text-stone-700 leading-relaxed mb-6">
           250 years ago, Black History Month did not exist. Slavery thrived in the American colonies. 
-          While Jefferson and the founding fathers were writing about freedom, they were keeping actual human beings in chains.
+          While Jefferson and the Founding Fathers were writing about freedom, they were keeping actual human beings in chains.
         </p>
         <div className="bg-white p-6 rounded-xl border border-amber-200 italic text-stone-600 relative">
           <span className="absolute -top-4 -left-2 text-6xl text-amber-200">"</span>
