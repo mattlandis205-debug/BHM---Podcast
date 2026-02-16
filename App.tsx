@@ -1,7 +1,7 @@
 
 import React, { useState, useEffect } from 'react';
 import Layout from './components/Layout';
-import HistoricalChat from './components/HistoricalChat';
+
 import { Step } from './types';
 import { FIGURES, FACTS_TO_SORT, SortingFact } from './constants';
 
