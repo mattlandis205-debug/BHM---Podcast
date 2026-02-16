@@ -20,7 +20,7 @@ export async function askHistorian(
     body: JSON.stringify({
       question: query,
       // send any context you want the historian to use
-      context: PODCAST_CONTEXT,
+      context: "",
       // send conversation history too (optional, but useful)
       history,
     }),
