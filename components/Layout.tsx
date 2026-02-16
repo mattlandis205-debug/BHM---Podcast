@@ -15,7 +15,6 @@ const Layout: React.FC<LayoutProps> = ({ children, currentStep, onNavigate }) =>
     { id: Step.PATRIOT_PATH, label: 'The Patriot Cause' },
     { id: Step.LEGAL_PATH, label: 'The Legal Fight' },
     { id: Step.VERDICT, label: 'The Verdict' },
-    { id: Step.AI_CONSULTANT, label: 'Ask Historian' },
   ];
 
   return (
