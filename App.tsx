@@ -288,12 +288,7 @@ const App: React.FC = () => {
           <p className="text-lg text-white-900/80 font-medium">
             Based on the evidence you've sorted, who offered a more consistent path to liberty? King George, who used freedom as a weapon of war, or George Washington, whose new nation was built on the contradiction of slavery?
           </p>
-          <button 
-            onClick={() => setCurrentStep(Step.AI_CONSULTANT)}
-            className="bg-amber-600 text-white font-bold px-12 py-5 rounded-2xl hover:bg-amber-700 transition-all shadow-xl hover:scale-[1.02] active:scale-95 uppercase tracking-widest text-lg"
-          >
-            Present to the Historian
-          </button>
+         
         </div>
       </div>
     </div>
